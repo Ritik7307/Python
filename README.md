@@ -32,3 +32,7 @@ The conversion of one data type into the other data type is known as type Castin
 Python supports a wide variety of functions or methods like : int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc.
 ->Explicit Type Casting
 ->Implicit type Casting
+
+## Day-14: if-else
+## Day-16: Kinda switch Case
+## Day-17: For loop
