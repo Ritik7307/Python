@@ -8,3 +8,4 @@ when these exceptions occur, the python interpreters stops the current process a
 Python try...except
 
 try...except blocks are used in python to hanndle errors and exceptions.The code in try block runs when there is no error.If the try block catches the error, then the except block is executed.
+
