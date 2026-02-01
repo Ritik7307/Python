@@ -36,4 +36,4 @@ Python supports a wide variety of functions or methods like : int(), float(), st
 ## Day-14: if-else
 ## Day-16: Kinda switch Case
 ## Day-17: For loop
-## Day-24 File handeling
+## Day-24 File handeling 
